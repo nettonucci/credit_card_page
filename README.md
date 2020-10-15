@@ -1,8 +1,8 @@
 # Pagina de cartão
 
-## Começando
+## Desenvolvimento
 
-Pagina desenvolvida em React Native, juntamente com as bibliotecas:
+Pagina desenvolvida em **React Native**, juntamente com as bibliotecas:
 
 - expo.
 - expo-linear-gradient.
@@ -11,9 +11,9 @@ Pagina desenvolvida em React Native, juntamente com as bibliotecas:
 - react-native-vector-icons.
 - Animated
 
-## Desenvolvimento
+## Autor
 
-Esta pagina foi criada e mantida por **[Netto Nucci]** .
+Esta pagina foi criada e mantida por **Netto Nucci** .
 
 - **[Facebook](https://www.facebook.com/netto.nucci)**
 - **[Github](https://github.com/nettonucci)**
