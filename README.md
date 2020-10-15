@@ -15,9 +15,9 @@ Pagina desenvolvida em React Native, juntamente com as bibliotecas:
 
 Esta pagina foi criada e mantida por **[Netto Nucci]** .
 
-**[Facebook](https://www.facebook.com/netto.nucci)**
-**[Github](https://github.com/nettonucci)**
-**[Linkedin](https://www.linkedin.com/in/jose-nucci-netto-082b68185/)**
+- **[Facebook](https://www.facebook.com/netto.nucci)**
+- **[Github](https://github.com/nettonucci)**
+- **[Linkedin](https://www.linkedin.com/in/jose-nucci-netto-082b68185/)**
 
 ## Copyright E Licença
 
