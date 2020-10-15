@@ -19,8 +19,10 @@ Esta pagina foi criada e mantida por **Netto Nucci** .
 - **[Github](https://github.com/nettonucci)**
 - **[Linkedin](https://www.linkedin.com/in/jose-nucci-netto-082b68185/)**
 
+## Demonstração
+
+![](card.gif)
+
 ## Copyright E Licença
 
 Copyright 2020 Netto Nucci.
-
-![](card.gif)
